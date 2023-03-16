@@ -12,6 +12,7 @@
 .main .bloque{
     width: 10rem;
     height: 10rem;
+    border-radius: 2rem;
     background-color: greenyellow;
     border: 1px solid black;
     box-shadow: 0px 4px 4px orangered;
